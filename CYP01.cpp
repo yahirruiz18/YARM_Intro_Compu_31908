@@ -14,7 +14,7 @@ int  main(int c, char** args)
 	int coordenada_inferior_x; //coordenada inferior derecha de x
 	int coordenada_inferior_y; //coordenada inferior derecha de y
 
-	scanf_s("%i", &ancho);
+	scanf_s("%i", &ancho); //prueba de cambio
 	scanf_s("%i", &altura);
 	scanf_s("%f", &porcentaje_de_x);
 	scanf_s("%f", &porcentaje_de_y);
