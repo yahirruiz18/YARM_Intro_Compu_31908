@@ -1,0 +1,1 @@
+Hola, esta es una carta desde la terminal, y se realizó desde mi PC local
